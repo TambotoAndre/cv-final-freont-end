@@ -1,0 +1,63 @@
+
+/* #n h3{
+    position: absolute;
+    width: 100%;
+    background-color: none;
+    top: 10%;
+    left: 32.8%;
+}  */
+
+/* #abm h4{
+    position: absolute;
+    top:55%;
+    left: 23.75%;
+    color: black;
+}
+#abm h1{
+    position: absolute;
+    top:35%;
+    left: 42.50%;
+    color: black;
+} */
+#abm{
+    position: absolute;
+    left:35%;
+    top:40%;
+   
+}
+/* 
+#info{
+    position: absolute;
+    top: 160%;
+}
+
+#edu{
+    position: absolute;
+    top: 220%;
+}
+
+#sk{
+    position: absolute;
+    top : 290%;
+} */ */
+
+
+.navbar-brand{
+   
+    width: 100%;
+
+}
+
+.body {
+    background-color:#0F3D3E;
+    height: 400%;
+    
+}
+
+#cd{
+    position: absolute;
+    left: 10%;
+    top: 35.40%;
+   
+}
+
